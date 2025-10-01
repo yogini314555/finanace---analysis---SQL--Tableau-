@@ -180,7 +180,7 @@ COPY loans FROM './data/Loan_Data.csv' DELIMITER ',' CSV HEADER;
 
 Open https://github.com/yogini314555/finanace---analysis---SQL--Tableau-/blob/main/financee.sql for pre-written analysis queries.
 
-Open Tableau/Loan_Dashboard.twbx to explore interactive dashboards.
+Open https://github.com/yogini314555/finanace---analysis---SQL--Tableau-/blob/main/finance.twb to explore interactive dashboards.
 
 📌 Project Structure
 loan-finance-analysis/
